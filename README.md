@@ -1,2 +1,2 @@
 # Data-Analyst_Python-Project
-Python, Pandas, Numpy, Seaborn, Matplotlib
+Python, Pandas, Numpy, Seaborn, Matplotlib, Statistics
